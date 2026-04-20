@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: AI uBlock Blacklist
 ! Expires: 1 day
 ! Homepage: https://github.com/alvi-se/ai-ublock-blacklist
